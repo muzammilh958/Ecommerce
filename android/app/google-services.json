@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473041390723",
+    "project_id": "set-jet-e17da",
+    "storage_bucket": "set-jet-e17da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473041390723:android:02c5c7d85433db87a85fb6",
+        "android_client_info": {
+          "package_name": "com.example.set_jet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473041390723-rj1qbjll0msgdbesfopcvhkuimdr5l8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfJetegomxzcDo8pkYBzvm4N4GkgES5eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473041390723-rj1qbjll0msgdbesfopcvhkuimdr5l8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
